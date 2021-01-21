@@ -49,9 +49,9 @@ export default {
       this.requestOfAll.forEach((e) => {
         this.tratado.push({
           pais: e.Country,
-          totalConfirmado: e.TotalConfirmed,
-          totalMortes: e.TotalDeaths,
-          recuperado: e.TotalRecovered,
+          totalConfirmado: (e.TotalConfirmed).toLocaleString('pt-BR'),
+          totalMortes: (e.TotalDeaths).toLocaleString('pt-BR'),
+          recuperado: (e.TotalRecovered).toLocaleString('pt-BR')
         });
       });
     },
