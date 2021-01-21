@@ -1,4 +1,4 @@
-# Corona-Virus
+# Covid-19
 ![interface image](https://github.com/Pbluer/Corona-Virus/blob/main/src/assets/review.png)
 
 ----
