@@ -9,26 +9,20 @@
 * HTML 5 
 * CSS
 
-# store
 
-## Project setup
+## Instalação
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Rodar Site
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Buildar aplicação
 ```
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
